@@ -1,24 +1,24 @@
 {
   "domain": "ecomplus-storefront.netlify.app",
   "currency_symbol": "R$",
-  "primary_color": "#222831",
+  "primary_color": "#393e46",
   "theme": {
-    "bootswatch": "materia",
-    "custom": "clean-white"
+    "bootswatch": "cyborg",
+    "custom": "niche-game"
   },
-  "bg_color": "#ffffff",
+  "bg_color": "#000000",
   "repository": "",
-  "logo": "/img/uploads/instituto-ari-travassos-imoveis-cecoi-travassos-associados.jpg",
-  "name": "My Shop",
-  "short_name": "My Shop",
+  "logo": "/img/uploads/botao-de-compra-botadecompra-centralsos.png",
+  "name": "Botão de Compra",
+  "short_name": "Botão de Compra",
   "lang": "pt_br",
   "currency": "BRL",
   "mini_logo": "",
-  "favicon": "/img/uploads/favicon.png",
+  "favicon": "/img/uploads/botao-de-compra-botadecompra-centralsos.png",
   "country_code": "BR",
-  "secondary_color": "#393e46",
-  "icon": "/img/icon.png",
+  "secondary_color": "#ff0000",
+  "icon": "/img/uploads/botao-de-compra-botadecompra-centralsos.png",
   "store_id": 19974,
-  "description": "My PWA Shop",
-  "large_icon": "/img/large-icon.png"
+  "description": "Botão de Compra",
+  "large_icon": "/img/uploads/botao-de-compra-botadecompra-centralsos.png"
 }
