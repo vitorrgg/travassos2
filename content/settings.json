@@ -3,7 +3,7 @@
   "currency_symbol": "R$",
   "primary_color": "#393e46",
   "theme": {
-    "bootswatch": "cyborg",
+    "bootswatch": "darkly",
     "custom": "niche-game"
   },
   "bg_color": "#000000",
