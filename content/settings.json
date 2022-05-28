@@ -3,12 +3,12 @@
   "currency_symbol": "R$",
   "primary_color": "#393e46",
   "theme": {
-    "bootswatch": "darkly",
-    "custom": "niche-game"
+    "bootswatch": "_",
+    "custom": "_"
   },
   "bg_color": "#000000",
   "repository": "",
-  "logo": "/img/uploads/botao-de-compra-botadecompra-centralsos.png",
+  "logo": "/img/uploads/instituto-ari-travassos-imoveis-cecoi-travassos-associados.jpg",
   "name": "Botão de Compra",
   "short_name": "Botão de Compra",
   "lang": "pt_br",
